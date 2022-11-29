@@ -1,0 +1,16 @@
+.logo-image {
+    width: 50px
+}
+
+.nav-link:hover {
+    color: aqua;
+}
+
+li:hover {
+    background-color: blue;
+}
+
+input, button{
+    width: 400px;
+     border: none
+}

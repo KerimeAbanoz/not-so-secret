@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo-image {
+    width: 50px
+}
+
+.nav-link:hover {
+    color: aqua;
+}
+
+li:hover {
+    background-color: blue;
+}
+
+input, button{
+    width: 400px;
+     border: none
+}
+
+.top-secrets {
+    width: 25vw;
+    height: 20rem;
+    position: fixed;
+    right: 3rem;
+    top: 10rem;
+}
+
+.profile-pic {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.go-up {
+    position: fixed !important;
+    bottom: 50px !important;
+    right: 30px !important;
+    width: 50px;
+}
